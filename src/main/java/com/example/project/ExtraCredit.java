@@ -48,7 +48,7 @@ public class ExtraCredit {
         int percent = 25;
         double cost = 52.27;
         System.out.println(calculateTip(people,percent,cost, items.toString()));
-        scan.close();
+      
         }
     }
 }
